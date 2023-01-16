@@ -1472,11 +1472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosMongo\\CursoMongo\\CursoMongo\\CursoMongo.csproj",
+      "projectUniqueName": "C:\\ProjetosMongo\\CursoMongo\\MongoDBDotNet\\CursoMongo\\CursoMongo.csproj",
       "projectName": "CursoMongo",
-      "projectPath": "C:\\ProjetosMongo\\CursoMongo\\CursoMongo\\CursoMongo.csproj",
+      "projectPath": "C:\\ProjetosMongo\\CursoMongo\\MongoDBDotNet\\CursoMongo\\CursoMongo.csproj",
       "packagesPath": "C:\\Users\\Remoto\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosMongo\\CursoMongo\\CursoMongo\\obj\\",
+      "outputPath": "C:\\ProjetosMongo\\CursoMongo\\MongoDBDotNet\\CursoMongo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
