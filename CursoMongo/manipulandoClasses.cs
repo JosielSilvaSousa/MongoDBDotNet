@@ -37,7 +37,7 @@ namespace CursoMongo
             livro.Titulo = "Sob a redoma";
             livro.Autor = "Stepahn King";
             livro.Ano = 2022;
-            livro.pagina = 679;
+            livro.Pagina = 679;
 
             List<string> listaAssunto = new List<string>();
             listaAssunto.Add("Ficção Cientifica");
