@@ -9,3 +9,14 @@ C:\ProjetosMongo\CursoMongo\CursoMongo\obj\Debug\netcoreapp2.1\CursoMongo.Assemb
 C:\ProjetosMongo\CursoMongo\CursoMongo\bin\Debug\netcoreapp2.1\CursoMongo.pdb
 C:\ProjetosMongo\CursoMongo\CursoMongo\obj\Debug\netcoreapp2.1\CursoMongo.dll
 C:\ProjetosMongo\CursoMongo\CursoMongo\obj\Debug\netcoreapp2.1\CursoMongo.pdb
+C:\ProjetosMongo\CursoMongo\MongoDBDotNet\CursoMongo\bin\Debug\netcoreapp2.1\CursoMongo.deps.json
+C:\ProjetosMongo\CursoMongo\MongoDBDotNet\CursoMongo\bin\Debug\netcoreapp2.1\CursoMongo.runtimeconfig.json
+C:\ProjetosMongo\CursoMongo\MongoDBDotNet\CursoMongo\bin\Debug\netcoreapp2.1\CursoMongo.runtimeconfig.dev.json
+C:\ProjetosMongo\CursoMongo\MongoDBDotNet\CursoMongo\bin\Debug\netcoreapp2.1\CursoMongo.dll
+C:\ProjetosMongo\CursoMongo\MongoDBDotNet\CursoMongo\bin\Debug\netcoreapp2.1\CursoMongo.pdb
+C:\ProjetosMongo\CursoMongo\MongoDBDotNet\CursoMongo\obj\Debug\netcoreapp2.1\CursoMongo.csprojAssemblyReference.cache
+C:\ProjetosMongo\CursoMongo\MongoDBDotNet\CursoMongo\obj\Debug\netcoreapp2.1\CursoMongo.csproj.CoreCompileInputs.cache
+C:\ProjetosMongo\CursoMongo\MongoDBDotNet\CursoMongo\obj\Debug\netcoreapp2.1\CursoMongo.AssemblyInfoInputs.cache
+C:\ProjetosMongo\CursoMongo\MongoDBDotNet\CursoMongo\obj\Debug\netcoreapp2.1\CursoMongo.AssemblyInfo.cs
+C:\ProjetosMongo\CursoMongo\MongoDBDotNet\CursoMongo\obj\Debug\netcoreapp2.1\CursoMongo.dll
+C:\ProjetosMongo\CursoMongo\MongoDBDotNet\CursoMongo\obj\Debug\netcoreapp2.1\CursoMongo.pdb
