@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>CursoMongo.listandoDocumentosFindBson</StartupObject>
+    <StartupObject>CursoMongo.ListandoDocumentosFiltroClasse</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
